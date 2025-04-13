@@ -1,6 +1,9 @@
 # ShikshaLens
+
 Domain: Data Science
-Problem Ststement:"ShikshaLens – Dropout Prediction & Early Intervention System for BPL School Children"
+
+Problem Statement:"ShikshaLens – Dropout Prediction & Early Intervention System for BPL School Children"
+
 Prediction of student dropout risk rate using Machine Learning(GradientBoosting and XGBoost)
 
 In this project we have built a ML Model using algorithms GradientBoosting and XGBoost out of which GradientBoosting(Accuracy: 1.000) had given us more accuracy compared to XGBoost(Accuracy: 0.996).We even have tested accuracy for other algorithms which includes LogisticRegression(Accuracy: 0.962),RandomForest(Accuracy: 0.926),SVM(Accuracy: 0.944),Gaussian NB(Accuracy: 0.264).
